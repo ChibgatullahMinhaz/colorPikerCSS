@@ -1,3 +1,3 @@
-# colorPikerCSS
+# ColorPikerCSS
 
-[visit color maker website](https://chibgatullahminhaz.github.io/colorPikerCSS/)
+[Visit Our colorMaker website](https://chibgatullahminhaz.github.io/colorPikerCSS/)
