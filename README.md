@@ -1,3 +1,3 @@
 # colorPikerCSS
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[visit color maker website](https://chibgatullahminhaz.github.io/colorPikerCSS/)
